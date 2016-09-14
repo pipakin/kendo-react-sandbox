@@ -13,6 +13,7 @@ namespace Sandbox1
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+            ReactConfig.Configure();
         }
     }
 }
