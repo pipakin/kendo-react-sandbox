@@ -1,15 +1,17 @@
 {
-	"version": "1.0.0",
-	"name": "react-kendo-sandbox",
-	"private": true,
+  "version": "1.0.0",
+  "name": "react-kendo-sandbox",
+  "private": true,
   "devDependencies": {
-    "webpack": "~1.13.2",
     "babel-core": "~6.10.0",
     "babel-eslint": "~6.1.0",
     "babel-loader": "~6.2.5",
     "babel-preset-es2015": "~6.1.2",
     "babel-preset-react": "~6.5.0",
     "babel-preset-stage-0": "~6.1.2",
-    "babel-register": "~6.9.0"   
+    "babel-register": "~6.9.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "webpack": "~1.13.2"
   }
 }
